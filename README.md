@@ -1,7 +1,7 @@
 # COBRA(Matlab)_Metabolic_Modeling_Course
  Content of a metabolic modeliing course based on the Matlab version of COBRA
 
-# Course Content
+# Course Expectations
 -	Explain flux balance analysis
 -	Explain the basic E.coli core metabolic model 
 -	Demonstrate the ability to effectively use the Cobra Toolbox
@@ -31,3 +31,23 @@ At the completion of the course, students will be able to do the following:
     -	optimizing bioproduct production,
     -	randomized sampling
 - Demonstrate the ability to use the Cobra Toolbox.
+
+# Textbook
+Systems Biology: Constraint-based Reconstruction and Analysis, Bernhard O. Palsson, Cambridge University Press, 2015
+
+# Course Content
+
+1. Introduction Module
+2. Matlab Module
+3. Flux Balance Analysis Module
+4. Cobra Toolbox Module
+5. *E.coli* Metabolic Core Module
+6. Robustness Analysis & Phenotype Phase Plane Analysis Module
+7. Flux Variability Analysis Module
+8. Gene Knockouts Module
+9. Randomized Sampling Module
+10. Dynamic Flux Balance Analysis Module
+11. Transcriptional Regulatory Networks Module
+12. Bioproduct Production Module
+
+
