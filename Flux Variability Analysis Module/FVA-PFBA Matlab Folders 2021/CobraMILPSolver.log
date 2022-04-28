@@ -1,0 +1,1630 @@
+Freeing MIP data.
+Tried aggregator 2 times.
+MIP Presolve eliminated 135 rows and 51 columns.
+MIP Presolve modified 212 coefficients.
+Aggregator did 55 substitutions.
+Reduced MIP has 196 rows, 139 columns, and 622 nonzeros.
+Reduced MIP has 51 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Probing fixed 1 vars, tightened 16 bounds.
+Probing time =    0.00 sec.
+Tried aggregator 1 time.
+MIP Presolve eliminated 6 rows and 3 columns.
+MIP Presolve modified 28 coefficients.
+Reduced MIP has 190 rows, 136 columns, and 609 nonzeros.
+Reduced MIP has 49 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time =    0.00 sec.
+Probing time =    0.00 sec.
+Clique table members: 20.
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: none, using 1 thread.
+Root relaxation solution time =    0.00 sec.
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer     Best Node    ItCnt     Gap
+
+      0     0       -0.8357    20                     -0.8357       89         
+      0     0       -0.8357     3                    Fract: 1       92         
+      0     0       -0.8357     3                     Cuts: 4       96         
+      0     0       -0.8357     3                 Flowcuts: 5      104         
+      0     2       -0.8357     1                     -0.8357      104         
+Elapsed real time =   0.00 sec. (tree size =  0.00 MB)
+*     8     0      integral     0       -0.8357       -0.8357      125    0.00%
+
+Flow cuts applied:  1
+CPLEX Error  1255: Incompatible with superbasis.
+CPLEX Error  1255: Incompatible with superbasis.
+CPLEX Error  1262: No basis exists.
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 13:58:53
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 13:58:53
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 13:58:53
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 13:58:53
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/06/19 14:21:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/07/19 07:52:21
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/07/19 07:52:21
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/07/19 07:52:21
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/07/19 07:52:21
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/07/19 07:56:57
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/07/19 07:56:57
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/07/19 07:56:57
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/07/19 07:56:57
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/07/19 08:04:18
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/07/19 08:04:18
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/07/19 08:04:18
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/07/19 08:04:18
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:32:38
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:32:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:32:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:35:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:39
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:37:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/08/19 06:38:11
+
+
+Gurobi 9.0.0 (win64, Matlab) logging started 02/11/20 06:23:37
+
+
+Gurobi 9.0.0 (win64, Matlab) logging started 02/11/20 06:23:37
+
+
+Gurobi 9.0.0 (win64, Matlab) logging started 02/11/20 06:23:37
+
+
+Gurobi 9.0.0 (win64, Matlab) logging started 02/11/20 06:23:37
+
