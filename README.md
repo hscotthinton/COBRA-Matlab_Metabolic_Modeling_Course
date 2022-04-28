@@ -16,3 +16,18 @@
 -	Explain and demonstrate constraint-based modeling using randomized sampling
 -	Explain the process of creating genome-scale metabolic reconstructions
 -	Explain the creation of tissue models from genome-scale metabolic reconstructions
+
+# Course Outcomes 
+At the completion of the course, students will be able to do the following: 
+ -	Demonstrate a qualitative understanding of 
+ -	flux balance analysis,
+ -	the Cobra Toolbox,
+ -	robustness analysis,
+ -	phenotype phase plane analysis,
+ -	parsimonious analysis
+ -	dynamic flux balance analysis
+ -	dynamic regulatory flux balance analysis
+ -	determining gene knockouts for optimizing bioproduct production,
+ -	optimizing bioproduct production,
+ -	randomized sampling
+•	Demonstrate the ability to use the Cobra Toolbox.
