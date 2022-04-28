@@ -1,0 +1,428 @@
+Freeing MIP data.
+Tried aggregator 2 times.
+MIP Presolve eliminated 127 rows and 47 columns.
+MIP Presolve modified 223 coefficients.
+Aggregator did 57 substitutions.
+Reduced MIP has 201 rows, 141 columns, and 635 nonzeros.
+Reduced MIP has 53 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Probing fixed 0 vars, tightened 8 bounds.
+Probing time =    0.00 sec.
+Tried aggregator 1 time.
+MIP Presolve eliminated 3 rows and 1 columns.
+MIP Presolve modified 21 coefficients.
+Reduced MIP has 198 rows, 140 columns, and 629 nonzeros.
+Reduced MIP has 52 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time =    0.00 sec.
+Probing time =    0.01 sec.
+Clique table members: 3.
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: none, using 1 thread.
+Root relaxation solution time =    0.00 sec.
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer     Best Node    ItCnt     Gap
+
+      0     0       -0.7865    18                     -0.7865       80         
+*     0+    0                           -0.7865       -0.7865       80    0.00%
+      0     0        cutoff             -0.7865       -0.7865       80    0.00%
+Elapsed real time =   0.05 sec. (tree size =  0.00 MB)
+CPLEX Error  1255: Incompatible with superbasis.
+CPLEX Error  1255: Incompatible with superbasis.
+CPLEX Error  1262: No basis exists.
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:52:16
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:53:48
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:54:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:22
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:22
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:22
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:22
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:25
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:25
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:25
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:25
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:25
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:25
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:25
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:25
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:25
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:26
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:26
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:26
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:26
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:28
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:28
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:29
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:29
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:29
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:29
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:29
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:29
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:29
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:29
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:29
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:29
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:29
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:29
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:29
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:29
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:32
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:32
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:32
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:32
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:32
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:32
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:32
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:33
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:33
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:33
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:33
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:33
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:33
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:33
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:33
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:33
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:33
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:33
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:33
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:43
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:43
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:43
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:43
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:43
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:43
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:43
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:43
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:43
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:43
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:43
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:43
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:44
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:44
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:44
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:44
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:44
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:44
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:44
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:44
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:44
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:44
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:54
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:54
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:54
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:54
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:54
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:54
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:54
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:54
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:54
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:54
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:54
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:54
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:54
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:54
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:54
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:54
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:54
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:54
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:54
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:55
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:55
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:55
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:55
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:55
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:55
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:55
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:55
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:55
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:55
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:55
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:55
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:55
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:55
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:55
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:55
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:55
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:55
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:55
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:55
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:55
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:56
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:56
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:56
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:56
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:56
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:56
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:56
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:56
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:56
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:56
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:56
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 12:59:56
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 13:00:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 13:01:37
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 07/31/19 13:02:00
+
