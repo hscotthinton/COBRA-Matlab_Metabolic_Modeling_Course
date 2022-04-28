@@ -1,0 +1,7392 @@
+Tried aggregator 1 time.
+LP Presolve eliminated 29 rows and 34 columns.
+Aggregator did 21 substitutions.
+Reduced LP has 26 rows, 40 columns, and 162 nonzeros.
+Presolve time = 0.00 sec. (0.08 ticks)
+Initializing dual steep norms . . .
+
+Iteration log . . .
+Iteration:     1   Dual objective     =             0.000000
+CPLEX Error  1255: Incompatible with superbasis.
+CPLEX Error  1255: Incompatible with superbasis.
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:42:22
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:42:22
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:42:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:42:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:43:55
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:43:55
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:22
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:23
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:24
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:24
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:24
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:24
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:24
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:24
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:24
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:24
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:24
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:24
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:24
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:24
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:24
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:24
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:24
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:24
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:24
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:24
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:24
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:24
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:24
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:24
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:24
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:24
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:24
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:24
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:24
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:24
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 08:57:24
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 08:57:24
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 09:14:35
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 09:14:35
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 09:15:12
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 09:15:12
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 09:15:26
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 09:15:26
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 09:15:52
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 09:15:52
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 09:19:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 09:19:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 09:19:26
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 09:19:26
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 09:19:46
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 09:19:46
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:16:25
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:16:25
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:18:48
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:18:48
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:19:23
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:19:23
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:19:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:19:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:20:44
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:20:44
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:21:40
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:21:40
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 10:50:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 10:50:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 11:09:44
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 11:09:44
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 11:50:15
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 11:50:15
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:17
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:17
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:17
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:17
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:17
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:17
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:17
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:17
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:17
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:17
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:17
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:17
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:17
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:17
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:17
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:17
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:17
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:17
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:17
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:17
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:17
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:17
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:17
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:17
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:17
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:17
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:17
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:17
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:17
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:17
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:17
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:17
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:25:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 14:29:20
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/10/19 17:30:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/10/19 17:30:49
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:58
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:58
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:58
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:58
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:58
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:58
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:58
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:58
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:58
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:58
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:58
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:58
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:58
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:58
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:58
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:58
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:58
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:41:59
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:08
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 08:42:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:41
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:41
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:41
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:41
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:41
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:41
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:41
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:41
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:41
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:41
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:41
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:41
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:41
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:41
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:41
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:41
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:41
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:41
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:41
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:41
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:41
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:41
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:41
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:16:41
+
+CPXPARAM_Simplex_Tolerances_Optimality           1.0000000000000001e-09
+CPXPARAM_Simplex_Tolerances_Feasibility          1.0000000000000001e-09
+CPXPARAM_Simplex_Display                         0
+CPXPARAM_TimeLimit                               1e+36
+CPXPARAM_Sifting_Display                         0
+CPXPARAM_Output_CloneLog                         1
+CPXPARAM_MIP_Tolerances_AbsMIPGap                9.9999999999999998e-13
+CPXPARAM_MIP_Tolerances_MIPGap                   9.9999999999999998e-13
+CPXPARAM_MIP_Tolerances_Integrality              9.9999999999999998e-13
+CPXPARAM_Barrier_ConvergeTol                     1.0000000000000001e-09
+CPXPARAM_Barrier_Display                         0
+CPXPARAM_Network_Tolerances_Feasibility          1.0000000000000001e-09
+Tried aggregator 2 times.
+MIP Presolve eliminated 25 rows and 29 columns.
+MIP Presolve modified 34 coefficients.
+Aggregator did 18 substitutions.
+Reduced MIP has 29 rows, 48 columns, and 194 nonzeros.
+Reduced MIP has 0 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.06 sec. (0.17 ticks)
+Tried aggregator 1 time.
+Reduced MIP has 29 rows, 48 columns, and 194 nonzeros.
+Reduced MIP has 0 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.07 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 32 threads.
+Root relaxation solution time = 0.00 sec. (0.08 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0     0      integral     0       -0.2117       -0.2117       25    0.00%
+Elapsed time = 0.14 sec. (0.38 ticks, tree = 0.00 MB, solutions = 1)
+
+Root node processing (before b&c):
+  Real time             =    0.14 sec. (0.39 ticks)
+Parallel b&c, 32 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.14 sec. (0.39 ticks)
+CPXPARAM_Simplex_Tolerances_Optimality           1.0000000000000001e-09
+CPXPARAM_Simplex_Tolerances_Feasibility          1.0000000000000001e-09
+CPXPARAM_Simplex_Display                         0
+CPXPARAM_TimeLimit                               1e+36
+CPXPARAM_Sifting_Display                         0
+CPXPARAM_Output_CloneLog                         1
+CPXPARAM_MIP_Tolerances_AbsMIPGap                9.9999999999999998e-13
+CPXPARAM_MIP_Tolerances_MIPGap                   9.9999999999999998e-13
+CPXPARAM_MIP_Tolerances_Integrality              9.9999999999999998e-13
+CPXPARAM_Barrier_ConvergeTol                     1.0000000000000001e-09
+CPXPARAM_Barrier_Display                         0
+CPXPARAM_Network_Tolerances_Feasibility          1.0000000000000001e-09
+Tried aggregator 2 times.
+MIP Presolve eliminated 26 rows and 30 columns.
+MIP Presolve modified 27 coefficients.
+Aggregator did 23 substitutions.
+Reduced MIP has 24 rows, 42 columns, and 163 nonzeros.
+Reduced MIP has 0 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.17 ticks)
+Tried aggregator 1 time.
+Reduced MIP has 24 rows, 42 columns, and 163 nonzeros.
+Reduced MIP has 0 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.07 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 32 threads.
+Root relaxation solution time = 0.00 sec. (0.09 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0     0      integral     0       -8.2795       -8.2795       31    0.00%
+Elapsed time = 0.02 sec. (0.39 ticks, tree = 0.00 MB, solutions = 1)
+
+Root node processing (before b&c):
+  Real time             =    0.02 sec. (0.39 ticks)
+Parallel b&c, 32 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.02 sec. (0.39 ticks)
+CPXPARAM_Simplex_Tolerances_Optimality           1.0000000000000001e-09
+CPXPARAM_Simplex_Tolerances_Feasibility          1.0000000000000001e-09
+CPXPARAM_Simplex_Display                         0
+CPXPARAM_TimeLimit                               1e+36
+CPXPARAM_Sifting_Display                         0
+CPXPARAM_Output_CloneLog                         1
+CPXPARAM_MIP_Tolerances_AbsMIPGap                9.9999999999999998e-13
+CPXPARAM_MIP_Tolerances_MIPGap                   9.9999999999999998e-13
+CPXPARAM_MIP_Tolerances_Integrality              9.9999999999999998e-13
+CPXPARAM_Barrier_ConvergeTol                     1.0000000000000001e-09
+CPXPARAM_Barrier_Display                         0
+CPXPARAM_Network_Tolerances_Feasibility          1.0000000000000001e-09
+Tried aggregator 2 times.
+MIP Presolve eliminated 26 rows and 30 columns.
+MIP Presolve modified 27 coefficients.
+Aggregator did 23 substitutions.
+Reduced MIP has 24 rows, 42 columns, and 163 nonzeros.
+Reduced MIP has 0 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.17 ticks)
+Tried aggregator 1 time.
+Reduced MIP has 24 rows, 42 columns, and 163 nonzeros.
+Reduced MIP has 0 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.07 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 32 threads.
+Root relaxation solution time = 0.00 sec. (0.08 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0     0      integral     0        8.2795        8.2795       27    0.00%
+Elapsed time = 0.00 sec. (0.37 ticks, tree = 0.00 MB, solutions = 1)
+
+Root node processing (before b&c):
+  Real time             =    0.00 sec. (0.38 ticks)
+Parallel b&c, 32 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.00 sec. (0.38 ticks)
+CPXPARAM_Simplex_Tolerances_Optimality           1.0000000000000001e-09
+CPXPARAM_Simplex_Tolerances_Feasibility          1.0000000000000001e-09
+CPXPARAM_Simplex_Display                         0
+CPXPARAM_TimeLimit                               1e+36
+CPXPARAM_Sifting_Display                         0
+CPXPARAM_Output_CloneLog                         1
+CPXPARAM_MIP_Tolerances_AbsMIPGap                9.9999999999999998e-13
+CPXPARAM_MIP_Tolerances_MIPGap                   9.9999999999999998e-13
+CPXPARAM_MIP_Tolerances_Integrality              9.9999999999999998e-13
+CPXPARAM_Barrier_ConvergeTol                     1.0000000000000001e-09
+CPXPARAM_Barrier_Display                         0
+CPXPARAM_Network_Tolerances_Feasibility          1.0000000000000001e-09
+Tried aggregator 4 times.
+MIP Presolve eliminated 254 rows and 251 columns.
+MIP Presolve modified 58 coefficients.
+Aggregator did 110 substitutions.
+Reduced MIP has 187 rows, 228 columns, and 994 nonzeros.
+Reduced MIP has 56 binaries, 3 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (2.30 ticks)
+Probing fixed 2 vars, tightened 6 bounds.
+Probing time = 0.00 sec. (0.14 ticks)
+Tried aggregator 2 times.
+MIP Presolve eliminated 12 rows and 5 columns.
+MIP Presolve modified 24 coefficients.
+Aggregator did 1 substitutions.
+Reduced MIP has 174 rows, 222 columns, and 962 nonzeros.
+Reduced MIP has 54 binaries, 5 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.70 ticks)
+Probing time = 0.00 sec. (0.12 ticks)
+Clique table members: 13.
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 32 threads.
+Root relaxation solution time = 0.00 sec. (0.68 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                           -8.2795    -1000.0000              --- 
+      0     0      -19.2401     8       -8.2795      -19.2401       84  132.38%
+*     0+    0                          -16.5843      -19.2401            16.01%
+*     0+    0                          -17.0777      -19.2401            12.66%
+*     0+    0                          -18.6125      -19.2401             3.37%
+      0     2      -19.2401     3      -18.6125      -19.2401       86    3.37%
+Elapsed time = 0.20 sec. (12.83 ticks, tree = 0.01 MB, solutions = 4)
+*    72+    1                          -18.6125      -19.2401             3.37%
+
+Root node processing (before b&c):
+  Real time             =    0.16 sec. (12.78 ticks)
+Parallel b&c, 32 threads:
+  Real time             =    0.36 sec. (6.33 ticks)
+  Sync time (average)   =    0.27 sec.
+  Wait time (average)   =    0.02 sec.
+                          ------------
+Total (root+branch&cut) =    0.52 sec. (19.10 ticks)
+CPXPARAM_Simplex_Tolerances_Optimality           1.0000000000000001e-09
+CPXPARAM_Simplex_Tolerances_Feasibility          1.0000000000000001e-09
+CPXPARAM_Simplex_Display                         0
+CPXPARAM_TimeLimit                               1e+36
+CPXPARAM_Sifting_Display                         0
+CPXPARAM_Output_CloneLog                         1
+CPXPARAM_MIP_Tolerances_AbsMIPGap                9.9999999999999998e-13
+CPXPARAM_MIP_Tolerances_MIPGap                   9.9999999999999998e-13
+CPXPARAM_MIP_Tolerances_Integrality              9.9999999999999998e-13
+CPXPARAM_Barrier_ConvergeTol                     1.0000000000000001e-09
+CPXPARAM_Barrier_Display                         0
+CPXPARAM_Network_Tolerances_Feasibility          1.0000000000000001e-09
+Tried aggregator 2 times.
+MIP Presolve eliminated 29 rows and 33 columns.
+MIP Presolve modified 34 coefficients.
+Aggregator did 16 substitutions.
+Reduced MIP has 29 rows, 46 columns, and 185 nonzeros.
+Reduced MIP has 0 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.16 ticks)
+Tried aggregator 1 time.
+Reduced MIP has 29 rows, 46 columns, and 185 nonzeros.
+Reduced MIP has 0 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.07 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 32 threads.
+Root relaxation solution time = 0.00 sec. (0.10 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0     0      integral     0       -0.0913       -0.0913       31    0.00%
+Elapsed time = 0.02 sec. (0.40 ticks, tree = 0.00 MB, solutions = 1)
+
+Root node processing (before b&c):
+  Real time             =    0.02 sec. (0.40 ticks)
+Parallel b&c, 32 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.02 sec. (0.40 ticks)
+CPXPARAM_Simplex_Tolerances_Optimality           1.0000000000000001e-09
+CPXPARAM_Simplex_Tolerances_Feasibility          1.0000000000000001e-09
+CPXPARAM_Simplex_Display                         0
+CPXPARAM_TimeLimit                               1e+36
+CPXPARAM_Sifting_Display                         0
+CPXPARAM_Output_CloneLog                         1
+CPXPARAM_MIP_Tolerances_AbsMIPGap                9.9999999999999998e-13
+CPXPARAM_MIP_Tolerances_MIPGap                   9.9999999999999998e-13
+CPXPARAM_MIP_Tolerances_Integrality              9.9999999999999998e-13
+CPXPARAM_Barrier_ConvergeTol                     1.0000000000000001e-09
+CPXPARAM_Barrier_Display                         0
+CPXPARAM_Network_Tolerances_Feasibility          1.0000000000000001e-09
+Tried aggregator 2 times.
+MIP Presolve eliminated 30 rows and 34 columns.
+MIP Presolve modified 27 coefficients.
+Aggregator did 21 substitutions.
+Reduced MIP has 24 rows, 40 columns, and 154 nonzeros.
+Reduced MIP has 0 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.16 ticks)
+Tried aggregator 1 time.
+Reduced MIP has 24 rows, 40 columns, and 154 nonzeros.
+Reduced MIP has 0 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.07 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 32 threads.
+Root relaxation solution time = 0.00 sec. (0.07 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0     0      integral     0      -18.6125      -18.6125       25    0.00%
+Elapsed time = 0.00 sec. (0.35 ticks, tree = 0.00 MB, solutions = 1)
+
+Root node processing (before b&c):
+  Real time             =    0.00 sec. (0.36 ticks)
+Parallel b&c, 32 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.00 sec. (0.36 ticks)
+CPXPARAM_Simplex_Tolerances_Optimality           1.0000000000000001e-09
+CPXPARAM_Simplex_Tolerances_Feasibility          1.0000000000000001e-09
+CPXPARAM_Simplex_Display                         0
+CPXPARAM_TimeLimit                               1e+36
+CPXPARAM_Sifting_Display                         0
+CPXPARAM_Output_CloneLog                         1
+CPXPARAM_MIP_Tolerances_AbsMIPGap                9.9999999999999998e-13
+CPXPARAM_MIP_Tolerances_MIPGap                   9.9999999999999998e-13
+CPXPARAM_MIP_Tolerances_Integrality              9.9999999999999998e-13
+CPXPARAM_Barrier_ConvergeTol                     1.0000000000000001e-09
+CPXPARAM_Barrier_Display                         0
+CPXPARAM_Network_Tolerances_Feasibility          1.0000000000000001e-09
+Tried aggregator 2 times.
+MIP Presolve eliminated 30 rows and 34 columns.
+MIP Presolve modified 27 coefficients.
+Aggregator did 21 substitutions.
+Reduced MIP has 24 rows, 40 columns, and 154 nonzeros.
+Reduced MIP has 0 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.16 ticks)
+Tried aggregator 1 time.
+Reduced MIP has 24 rows, 40 columns, and 154 nonzeros.
+Reduced MIP has 0 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.07 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 32 threads.
+Root relaxation solution time = 0.00 sec. (0.06 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0     0      integral     0       18.2685       18.2685       19    0.00%
+Elapsed time = 0.00 sec. (0.34 ticks, tree = 0.00 MB, solutions = 1)
+
+Root node processing (before b&c):
+  Real time             =    0.00 sec. (0.34 ticks)
+Parallel b&c, 32 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.00 sec. (0.34 ticks)
+CPXPARAM_Simplex_Tolerances_Optimality           1.0000000000000001e-09
+CPXPARAM_Simplex_Tolerances_Feasibility          1.0000000000000001e-09
+CPXPARAM_Simplex_Display                         0
+CPXPARAM_TimeLimit                               1e+36
+CPXPARAM_Sifting_Display                         0
+CPXPARAM_Output_CloneLog                         1
+CPXPARAM_MIP_Tolerances_AbsMIPGap                9.9999999999999998e-13
+CPXPARAM_MIP_Tolerances_MIPGap                   9.9999999999999998e-13
+CPXPARAM_MIP_Tolerances_Integrality              9.9999999999999998e-13
+CPXPARAM_Barrier_ConvergeTol                     1.0000000000000001e-09
+CPXPARAM_Barrier_Display                         0
+CPXPARAM_Network_Tolerances_Feasibility          1.0000000000000001e-09
+Tried aggregator 2 times.
+MIP Presolve eliminated 29 rows and 33 columns.
+MIP Presolve modified 34 coefficients.
+Aggregator did 16 substitutions.
+Reduced MIP has 29 rows, 46 columns, and 185 nonzeros.
+Reduced MIP has 0 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.16 ticks)
+Tried aggregator 1 time.
+Reduced MIP has 29 rows, 46 columns, and 185 nonzeros.
+Reduced MIP has 0 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.07 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 32 threads.
+Root relaxation solution time = 0.00 sec. (0.10 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0     0      integral     0       -0.0913       -0.0913       31    0.00%
+Elapsed time = 0.00 sec. (0.40 ticks, tree = 0.00 MB, solutions = 1)
+
+Root node processing (before b&c):
+  Real time             =    0.00 sec. (0.40 ticks)
+Parallel b&c, 32 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.00 sec. (0.40 ticks)
+CPXPARAM_Simplex_Tolerances_Optimality           1.0000000000000001e-09
+CPXPARAM_Simplex_Tolerances_Feasibility          1.0000000000000001e-09
+CPXPARAM_Simplex_Display                         0
+CPXPARAM_TimeLimit                               1e+36
+CPXPARAM_Sifting_Display                         0
+CPXPARAM_Output_CloneLog                         1
+CPXPARAM_MIP_Tolerances_AbsMIPGap                9.9999999999999998e-13
+CPXPARAM_MIP_Tolerances_MIPGap                   9.9999999999999998e-13
+CPXPARAM_MIP_Tolerances_Integrality              9.9999999999999998e-13
+CPXPARAM_Barrier_ConvergeTol                     1.0000000000000001e-09
+CPXPARAM_Barrier_Display                         0
+CPXPARAM_Network_Tolerances_Feasibility          1.0000000000000001e-09
+Tried aggregator 2 times.
+MIP Presolve eliminated 30 rows and 34 columns.
+MIP Presolve modified 27 coefficients.
+Aggregator did 21 substitutions.
+Reduced MIP has 24 rows, 40 columns, and 154 nonzeros.
+Reduced MIP has 0 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.16 ticks)
+Tried aggregator 1 time.
+Reduced MIP has 24 rows, 40 columns, and 154 nonzeros.
+Reduced MIP has 0 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.07 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 32 threads.
+Root relaxation solution time = 0.00 sec. (0.07 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0     0      integral     0      -18.6125      -18.6125       25    0.00%
+Elapsed time = 0.02 sec. (0.35 ticks, tree = 0.00 MB, solutions = 1)
+
+Root node processing (before b&c):
+  Real time             =    0.02 sec. (0.36 ticks)
+Parallel b&c, 32 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.02 sec. (0.36 ticks)
+CPXPARAM_Simplex_Tolerances_Optimality           1.0000000000000001e-09
+CPXPARAM_Simplex_Tolerances_Feasibility          1.0000000000000001e-09
+CPXPARAM_Simplex_Display                         0
+CPXPARAM_TimeLimit                               1e+36
+CPXPARAM_Sifting_Display                         0
+CPXPARAM_Output_CloneLog                         1
+CPXPARAM_MIP_Tolerances_AbsMIPGap                9.9999999999999998e-13
+CPXPARAM_MIP_Tolerances_MIPGap                   9.9999999999999998e-13
+CPXPARAM_MIP_Tolerances_Integrality              9.9999999999999998e-13
+CPXPARAM_Barrier_ConvergeTol                     1.0000000000000001e-09
+CPXPARAM_Barrier_Display                         0
+CPXPARAM_Network_Tolerances_Feasibility          1.0000000000000001e-09
+Tried aggregator 2 times.
+MIP Presolve eliminated 30 rows and 34 columns.
+MIP Presolve modified 27 coefficients.
+Aggregator did 21 substitutions.
+Reduced MIP has 24 rows, 40 columns, and 154 nonzeros.
+Reduced MIP has 0 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.16 ticks)
+Tried aggregator 1 time.
+Reduced MIP has 24 rows, 40 columns, and 154 nonzeros.
+Reduced MIP has 0 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.07 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 32 threads.
+Root relaxation solution time = 0.00 sec. (0.06 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0     0      integral     0       18.2685       18.2685       19    0.00%
+Elapsed time = 0.00 sec. (0.34 ticks, tree = 0.00 MB, solutions = 1)
+
+Root node processing (before b&c):
+  Real time             =    0.00 sec. (0.34 ticks)
+Parallel b&c, 32 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.00 sec. (0.34 ticks)
+CPXPARAM_Simplex_Tolerances_Optimality           1.0000000000000001e-09
+CPXPARAM_Simplex_Tolerances_Feasibility          1.0000000000000001e-09
+CPXPARAM_Simplex_Display                         0
+CPXPARAM_TimeLimit                               1e+36
+CPXPARAM_Sifting_Display                         0
+CPXPARAM_Output_CloneLog                         1
+CPXPARAM_MIP_Tolerances_AbsMIPGap                9.9999999999999998e-13
+CPXPARAM_MIP_Tolerances_MIPGap                   9.9999999999999998e-13
+CPXPARAM_MIP_Tolerances_Integrality              9.9999999999999998e-13
+CPXPARAM_Barrier_ConvergeTol                     1.0000000000000001e-09
+CPXPARAM_Barrier_Display                         0
+CPXPARAM_Network_Tolerances_Feasibility          1.0000000000000001e-09
+Tried aggregator 2 times.
+MIP Presolve eliminated 28 rows and 32 columns.
+MIP Presolve modified 34 coefficients.
+Aggregator did 16 substitutions.
+Reduced MIP has 29 rows, 47 columns, and 189 nonzeros.
+Reduced MIP has 0 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.16 ticks)
+Tried aggregator 1 time.
+Reduced MIP has 29 rows, 47 columns, and 189 nonzeros.
+Reduced MIP has 0 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.07 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 32 threads.
+Root relaxation solution time = 0.00 sec. (0.09 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0     0      integral     0       -0.1892       -0.1892       26    0.00%
+Elapsed time = 0.00 sec. (0.38 ticks, tree = 0.00 MB, solutions = 1)
+
+Root node processing (before b&c):
+  Real time             =    0.00 sec. (0.39 ticks)
+Parallel b&c, 32 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.00 sec. (0.39 ticks)
+CPXPARAM_Simplex_Tolerances_Optimality           1.0000000000000001e-09
+CPXPARAM_Simplex_Tolerances_Feasibility          1.0000000000000001e-09
+CPXPARAM_Simplex_Display                         0
+CPXPARAM_TimeLimit                               1e+36
+CPXPARAM_Sifting_Display                         0
+CPXPARAM_Output_CloneLog                         1
+CPXPARAM_MIP_Tolerances_AbsMIPGap                9.9999999999999998e-13
+CPXPARAM_MIP_Tolerances_MIPGap                   9.9999999999999998e-13
+CPXPARAM_MIP_Tolerances_Integrality              9.9999999999999998e-13
+CPXPARAM_Barrier_ConvergeTol                     1.0000000000000001e-09
+CPXPARAM_Barrier_Display                         0
+CPXPARAM_Network_Tolerances_Feasibility          1.0000000000000001e-09
+Tried aggregator 2 times.
+MIP Presolve eliminated 29 rows and 33 columns.
+MIP Presolve modified 27 coefficients.
+Aggregator did 21 substitutions.
+Reduced MIP has 24 rows, 41 columns, and 158 nonzeros.
+Reduced MIP has 0 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.16 ticks)
+Tried aggregator 1 time.
+Reduced MIP has 24 rows, 41 columns, and 158 nonzeros.
+Reduced MIP has 0 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.07 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 32 threads.
+Root relaxation solution time = 0.00 sec. (0.08 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0     0      integral     0      -16.5843      -16.5843       30    0.00%
+Elapsed time = 0.00 sec. (0.37 ticks, tree = 0.00 MB, solutions = 1)
+
+Root node processing (before b&c):
+  Real time             =    0.00 sec. (0.37 ticks)
+Parallel b&c, 32 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.00 sec. (0.37 ticks)
+CPXPARAM_Simplex_Tolerances_Optimality           1.0000000000000001e-09
+CPXPARAM_Simplex_Tolerances_Feasibility          1.0000000000000001e-09
+CPXPARAM_Simplex_Display                         0
+CPXPARAM_TimeLimit                               1e+36
+CPXPARAM_Sifting_Display                         0
+CPXPARAM_Output_CloneLog                         1
+CPXPARAM_MIP_Tolerances_AbsMIPGap                9.9999999999999998e-13
+CPXPARAM_MIP_Tolerances_MIPGap                   9.9999999999999998e-13
+CPXPARAM_MIP_Tolerances_Integrality              9.9999999999999998e-13
+CPXPARAM_Barrier_ConvergeTol                     1.0000000000000001e-09
+CPXPARAM_Barrier_Display                         0
+CPXPARAM_Network_Tolerances_Feasibility          1.0000000000000001e-09
+Tried aggregator 2 times.
+MIP Presolve eliminated 29 rows and 33 columns.
+MIP Presolve modified 27 coefficients.
+Aggregator did 21 substitutions.
+Reduced MIP has 24 rows, 41 columns, and 158 nonzeros.
+Reduced MIP has 0 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.16 ticks)
+Tried aggregator 1 time.
+Reduced MIP has 24 rows, 41 columns, and 158 nonzeros.
+Reduced MIP has 0 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.07 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 32 threads.
+Root relaxation solution time = 0.00 sec. (0.07 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0     0      integral     0       16.5843       16.5843       27    0.00%
+Elapsed time = 0.00 sec. (0.36 ticks, tree = 0.00 MB, solutions = 1)
+
+Root node processing (before b&c):
+  Real time             =    0.00 sec. (0.36 ticks)
+Parallel b&c, 32 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.00 sec. (0.36 ticks)
+CPXPARAM_Simplex_Tolerances_Optimality           1.0000000000000001e-09
+CPXPARAM_Simplex_Tolerances_Feasibility          1.0000000000000001e-09
+CPXPARAM_Simplex_Display                         0
+CPXPARAM_TimeLimit                               1e+36
+CPXPARAM_Sifting_Display                         0
+CPXPARAM_Output_CloneLog                         1
+CPXPARAM_MIP_Tolerances_AbsMIPGap                9.9999999999999998e-13
+CPXPARAM_MIP_Tolerances_MIPGap                   9.9999999999999998e-13
+CPXPARAM_MIP_Tolerances_Integrality              9.9999999999999998e-13
+CPXPARAM_Barrier_ConvergeTol                     1.0000000000000001e-09
+CPXPARAM_Barrier_Display                         0
+CPXPARAM_Network_Tolerances_Feasibility          1.0000000000000001e-09
+Tried aggregator 2 times.
+MIP Presolve eliminated 26 rows and 30 columns.
+MIP Presolve modified 34 coefficients.
+Aggregator did 18 substitutions.
+Reduced MIP has 29 rows, 47 columns, and 190 nonzeros.
+Reduced MIP has 0 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.17 ticks)
+Tried aggregator 1 time.
+Reduced MIP has 29 rows, 47 columns, and 190 nonzeros.
+Reduced MIP has 0 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.07 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 32 threads.
+Root relaxation solution time = 0.00 sec. (0.10 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0     0      integral     0       -0.1228       -0.1228       31    0.00%
+Elapsed time = 0.00 sec. (0.40 ticks, tree = 0.00 MB, solutions = 1)
+
+Root node processing (before b&c):
+  Real time             =    0.00 sec. (0.40 ticks)
+Parallel b&c, 32 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.00 sec. (0.40 ticks)
+CPXPARAM_Simplex_Tolerances_Optimality           1.0000000000000001e-09
+CPXPARAM_Simplex_Tolerances_Feasibility          1.0000000000000001e-09
+CPXPARAM_Simplex_Display                         0
+CPXPARAM_TimeLimit                               1e+36
+CPXPARAM_Sifting_Display                         0
+CPXPARAM_Output_CloneLog                         1
+CPXPARAM_MIP_Tolerances_AbsMIPGap                9.9999999999999998e-13
+CPXPARAM_MIP_Tolerances_MIPGap                   9.9999999999999998e-13
+CPXPARAM_MIP_Tolerances_Integrality              9.9999999999999998e-13
+CPXPARAM_Barrier_ConvergeTol                     1.0000000000000001e-09
+CPXPARAM_Barrier_Display                         0
+CPXPARAM_Network_Tolerances_Feasibility          1.0000000000000001e-09
+Tried aggregator 2 times.
+MIP Presolve eliminated 27 rows and 31 columns.
+MIP Presolve modified 27 coefficients.
+Aggregator did 23 substitutions.
+Reduced MIP has 24 rows, 41 columns, and 159 nonzeros.
+Reduced MIP has 0 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.16 ticks)
+Tried aggregator 1 time.
+Reduced MIP has 24 rows, 41 columns, and 159 nonzeros.
+Reduced MIP has 0 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.07 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 32 threads.
+Root relaxation solution time = 0.00 sec. (0.06 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0     0      integral     0       -9.0016       -9.0016       24    0.00%
+Elapsed time = 0.02 sec. (0.35 ticks, tree = 0.00 MB, solutions = 1)
+
+Root node processing (before b&c):
+  Real time             =    0.02 sec. (0.36 ticks)
+Parallel b&c, 32 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.02 sec. (0.36 ticks)
+CPXPARAM_Simplex_Tolerances_Optimality           1.0000000000000001e-09
+CPXPARAM_Simplex_Tolerances_Feasibility          1.0000000000000001e-09
+CPXPARAM_Simplex_Display                         0
+CPXPARAM_TimeLimit                               1e+36
+CPXPARAM_Sifting_Display                         0
+CPXPARAM_Output_CloneLog                         1
+CPXPARAM_MIP_Tolerances_AbsMIPGap                9.9999999999999998e-13
+CPXPARAM_MIP_Tolerances_MIPGap                   9.9999999999999998e-13
+CPXPARAM_MIP_Tolerances_Integrality              9.9999999999999998e-13
+CPXPARAM_Barrier_ConvergeTol                     1.0000000000000001e-09
+CPXPARAM_Barrier_Display                         0
+CPXPARAM_Network_Tolerances_Feasibility          1.0000000000000001e-09
+Tried aggregator 2 times.
+MIP Presolve eliminated 27 rows and 31 columns.
+MIP Presolve modified 27 coefficients.
+Aggregator did 23 substitutions.
+Reduced MIP has 24 rows, 41 columns, and 159 nonzeros.
+Reduced MIP has 0 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.16 ticks)
+Tried aggregator 1 time.
+Reduced MIP has 24 rows, 41 columns, and 159 nonzeros.
+Reduced MIP has 0 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.07 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 32 threads.
+Root relaxation solution time = 0.00 sec. (0.07 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0     0      integral     0        2.0335        2.0335       26    0.00%
+Elapsed time = 0.00 sec. (0.36 ticks, tree = 0.00 MB, solutions = 1)
+
+Root node processing (before b&c):
+  Real time             =    0.00 sec. (0.36 ticks)
+Parallel b&c, 32 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.00 sec. (0.36 ticks)
+CPXPARAM_Simplex_Tolerances_Optimality           1.0000000000000001e-09
+CPXPARAM_Simplex_Tolerances_Feasibility          1.0000000000000001e-09
+CPXPARAM_Simplex_Display                         0
+CPXPARAM_TimeLimit                               1e+36
+CPXPARAM_Sifting_Display                         0
+CPXPARAM_Output_CloneLog                         1
+CPXPARAM_MIP_Tolerances_AbsMIPGap                9.9999999999999998e-13
+CPXPARAM_MIP_Tolerances_MIPGap                   9.9999999999999998e-13
+CPXPARAM_MIP_Tolerances_Integrality              9.9999999999999998e-13
+CPXPARAM_Barrier_ConvergeTol                     1.0000000000000001e-09
+CPXPARAM_Barrier_Display                         0
+CPXPARAM_Network_Tolerances_Feasibility          1.0000000000000001e-09
+Tried aggregator 2 times.
+MIP Presolve eliminated 29 rows and 33 columns.
+MIP Presolve modified 34 coefficients.
+Aggregator did 16 substitutions.
+Reduced MIP has 29 rows, 46 columns, and 185 nonzeros.
+Reduced MIP has 0 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.16 ticks)
+Tried aggregator 1 time.
+Reduced MIP has 29 rows, 46 columns, and 185 nonzeros.
+Reduced MIP has 0 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.07 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 32 threads.
+Root relaxation solution time = 0.00 sec. (0.10 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0     0      integral     0       -0.0913       -0.0913       31    0.00%
+Elapsed time = 0.00 sec. (0.40 ticks, tree = 0.00 MB, solutions = 1)
+
+Root node processing (before b&c):
+  Real time             =    0.00 sec. (0.40 ticks)
+Parallel b&c, 32 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.00 sec. (0.40 ticks)
+CPXPARAM_Simplex_Tolerances_Optimality           1.0000000000000001e-09
+CPXPARAM_Simplex_Tolerances_Feasibility          1.0000000000000001e-09
+CPXPARAM_Simplex_Display                         0
+CPXPARAM_TimeLimit                               1e+36
+CPXPARAM_Sifting_Display                         0
+CPXPARAM_Output_CloneLog                         1
+CPXPARAM_MIP_Tolerances_AbsMIPGap                9.9999999999999998e-13
+CPXPARAM_MIP_Tolerances_MIPGap                   9.9999999999999998e-13
+CPXPARAM_MIP_Tolerances_Integrality              9.9999999999999998e-13
+CPXPARAM_Barrier_ConvergeTol                     1.0000000000000001e-09
+CPXPARAM_Barrier_Display                         0
+CPXPARAM_Network_Tolerances_Feasibility          1.0000000000000001e-09
+Tried aggregator 2 times.
+MIP Presolve eliminated 30 rows and 34 columns.
+MIP Presolve modified 27 coefficients.
+Aggregator did 21 substitutions.
+Reduced MIP has 24 rows, 40 columns, and 154 nonzeros.
+Reduced MIP has 0 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.16 ticks)
+Tried aggregator 1 time.
+Reduced MIP has 24 rows, 40 columns, and 154 nonzeros.
+Reduced MIP has 0 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.07 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 32 threads.
+Root relaxation solution time = 0.00 sec. (0.07 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0     0      integral     0      -18.6125      -18.6125       25    0.00%
+Elapsed time = 0.00 sec. (0.35 ticks, tree = 0.00 MB, solutions = 1)
+
+Root node processing (before b&c):
+  Real time             =    0.00 sec. (0.36 ticks)
+Parallel b&c, 32 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.00 sec. (0.36 ticks)
+CPXPARAM_Simplex_Tolerances_Optimality           1.0000000000000001e-09
+CPXPARAM_Simplex_Tolerances_Feasibility          1.0000000000000001e-09
+CPXPARAM_Simplex_Display                         0
+CPXPARAM_TimeLimit                               1e+36
+CPXPARAM_Sifting_Display                         0
+CPXPARAM_Output_CloneLog                         1
+CPXPARAM_MIP_Tolerances_AbsMIPGap                9.9999999999999998e-13
+CPXPARAM_MIP_Tolerances_MIPGap                   9.9999999999999998e-13
+CPXPARAM_MIP_Tolerances_Integrality              9.9999999999999998e-13
+CPXPARAM_Barrier_ConvergeTol                     1.0000000000000001e-09
+CPXPARAM_Barrier_Display                         0
+CPXPARAM_Network_Tolerances_Feasibility          1.0000000000000001e-09
+Tried aggregator 2 times.
+MIP Presolve eliminated 30 rows and 34 columns.
+MIP Presolve modified 27 coefficients.
+Aggregator did 21 substitutions.
+Reduced MIP has 24 rows, 40 columns, and 154 nonzeros.
+Reduced MIP has 0 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.16 ticks)
+Tried aggregator 1 time.
+Reduced MIP has 24 rows, 40 columns, and 154 nonzeros.
+Reduced MIP has 0 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.07 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 32 threads.
+Root relaxation solution time = 0.00 sec. (0.06 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0     0      integral     0       18.2685       18.2685       19    0.00%
+Elapsed time = 0.02 sec. (0.34 ticks, tree = 0.00 MB, solutions = 1)
+
+Root node processing (before b&c):
+  Real time             =    0.02 sec. (0.34 ticks)
+Parallel b&c, 32 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.02 sec. (0.34 ticks)
+CPXPARAM_Simplex_Tolerances_Optimality           1.0000000000000001e-09
+CPXPARAM_Simplex_Tolerances_Feasibility          1.0000000000000001e-09
+CPXPARAM_Simplex_Display                         0
+CPXPARAM_TimeLimit                               1e+36
+CPXPARAM_Sifting_Display                         0
+CPXPARAM_Output_CloneLog                         1
+CPXPARAM_MIP_Tolerances_AbsMIPGap                9.9999999999999998e-13
+CPXPARAM_MIP_Tolerances_MIPGap                   9.9999999999999998e-13
+CPXPARAM_MIP_Tolerances_Integrality              9.9999999999999998e-13
+CPXPARAM_Barrier_ConvergeTol                     1.0000000000000001e-09
+CPXPARAM_Barrier_Display                         0
+CPXPARAM_Network_Tolerances_Feasibility          1.0000000000000001e-09
+Tried aggregator 4 times.
+MIP Presolve eliminated 253 rows and 264 columns.
+MIP Presolve modified 57 coefficients.
+Aggregator did 109 substitutions.
+Reduced MIP has 189 rows, 216 columns, and 1028 nonzeros.
+Reduced MIP has 56 binaries, 3 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (2.58 ticks)
+Probing fixed 2 vars, tightened 6 bounds.
+Probing time = 0.00 sec. (0.14 ticks)
+Tried aggregator 2 times.
+MIP Presolve eliminated 13 rows and 6 columns.
+MIP Presolve modified 24 coefficients.
+Aggregator did 1 substitutions.
+Reduced MIP has 175 rows, 209 columns, and 992 nonzeros.
+Reduced MIP has 54 binaries, 5 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.85 ticks)
+Probing time = 0.00 sec. (0.13 ticks)
+Clique table members: 12.
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 32 threads.
+Root relaxation solution time = 0.00 sec. (0.78 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                           -8.2795    -1000.0000              --- 
+      0     0      -19.2401     7       -8.2795      -19.2401       95  132.38%
+      0     0      -19.2401     2       -8.2795      Fract: 1      104  132.38%
+*     0+    0                          -16.5843      -19.2401            16.01%
+*     0+    0                          -18.6125      -19.2401             3.37%
+      0     2      -19.2401     2      -18.6125      -19.2401      104    3.37%
+Elapsed time = 0.14 sec. (12.77 ticks, tree = 0.01 MB, solutions = 3)
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:25:47
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:40
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:41
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:41
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/11/19 09:31:41
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:39
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:40
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:40
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:40
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:40
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:40
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:40
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:40
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:40
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:40
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:40
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:40
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:40
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:40
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:35:40
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:35:40
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:03
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:03
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:03
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:03
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:03
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:03
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:03
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:03
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:03
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:03
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:03
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:03
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:03
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:03
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:03
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:03
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:03
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:03
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:03
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:03
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:03
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:03
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:03
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:03
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:03
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:03
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:03
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:03
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:03
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:03
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:03
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:03
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:37:04
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:40:15
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:56
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:57
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:57
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:57
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:57
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:57
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:57
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:57
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:57
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:57
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:57
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:57
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:57
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:57
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:57
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:57
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:57
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:57
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:57
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:57
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:57
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:57
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:57
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:57
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:57
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:57
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:57
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:57
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:57
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:57
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:57
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:57
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:57
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:57
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:57
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:48:57
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:48:57
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:38
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:38
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:38
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:38
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:38
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:38
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:38
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:38
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:45
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:45
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:45
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:45
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:45
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:45
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:45
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:45
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:45
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:45
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:45
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:45
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:45
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:45
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:45
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:45
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:45
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:45
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:45
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:45
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:45
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:45
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:45
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:45
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:45
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:45
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:45
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:45
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:45
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:45
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:45
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:45
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:49
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:49
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:50
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:50
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:50
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:50
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:50
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:53
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:53
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:53
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:53
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:53
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:53
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:53
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:53
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:53
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:53
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:53
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:53
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:53
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:53
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:53
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:53
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:53
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:53
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:53
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:53
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:54
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:54
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:54
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:54
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:54
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:54
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:54
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:54
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:54
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:54
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:54
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:54
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:54
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:54
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:54
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:54
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:54
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:54
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 14:54:58
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:01:58
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:01:58
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:01:58
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:01:58
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:01:58
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:01:58
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:01:58
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:01:58
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:05
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:05
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:09
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:09
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:09
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:09
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:09
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:09
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:09
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:09
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:09
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:09
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:09
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:09
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:09
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:09
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:09
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:09
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:09
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:09
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:09
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:09
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:10
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:10
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:10
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:10
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:10
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:10
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:10
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:10
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:10
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:10
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:10
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:10
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:10
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:10
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:10
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:10
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:10
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:10
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:14
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:14
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:18
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:18
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:19
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:19
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:19
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:19
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:19
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:19
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:19
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:19
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:19
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:19
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:19
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:19
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:19
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:19
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:19
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:19
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:19
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:19
+
+
+Gurobi 7.5.2 (win64, Matlab) logging started 08/11/19 15:02:19
+
+
+Gurobi 7.5.2 (win64) logging started 08/11/19 15:02:19
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:42:33
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:43:51
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:43:51
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:43:51
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:43:51
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:44:29
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:44:29
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:44:29
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:44:29
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:45:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:45:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:46:01
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:46:03
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:46:03
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:12
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:47:13
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:51:36
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 13:54:39
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 14:38:09
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:00:18
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:00:18
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:02:10
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:19:50
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:01
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:01
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:01
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:01
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:17
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:17
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:17
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:17
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:17
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:17
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:17
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:17
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:17
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:17
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:17
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:17
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:18
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:18
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:18
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:18
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:20
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:20
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:20
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:20
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:20
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:20
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:20
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:20
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:20
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:20
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:20
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:20
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:21
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:21
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:21
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:21
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:21
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:21
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:21
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:24
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:24
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:24
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:24
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:24
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:24
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:24
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:24
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:24
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:24
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:24
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:24
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:24
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:24
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:25
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:25
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:25
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:25
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:25
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:25
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:47:25
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:51:47
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:51:47
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:51:47
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:51:47
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:51:47
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:51:47
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:51:47
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:51:47
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:17
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:17
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:17
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:17
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:17
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:17
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:17
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:17
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:17
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:17
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:17
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:17
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:17
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:17
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:17
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:17
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:17
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:17
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:17
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:17
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:17
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:17
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:17
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:17
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:17
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:17
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:17
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:17
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:17
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:17
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:17
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:17
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:25
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:25
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:25
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:25
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:25
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:25
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:25
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:25
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:25
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:25
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:25
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:25
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:25
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:25
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:25
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:25
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:25
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:25
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:25
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:25
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:25
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:25
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:26
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:26
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:26
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:26
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:26
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:26
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:26
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:26
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:26
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:26
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:26
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:26
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:26
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:26
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:26
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:26
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:52:33
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:52:33
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 08/12/19 15:54:36
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/12/19 15:55:21
+
+
+Gurobi 7.0.2 (win64) logging started 08/12/19 15:55:21
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/13/19 06:33:32
+
+
+Gurobi 7.0.2 (win64) logging started 08/13/19 06:33:32
+
+
+Gurobi 7.0.2 (win64, Matlab) logging started 08/13/19 06:33:32
+
+
+Gurobi 7.0.2 (win64) logging started 08/13/19 06:33:32
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 02/11/20 14:56:07
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 03/17/20 20:00:09
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 03/17/20 20:10:27
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 03/17/20 20:11:33
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 03/17/20 20:14:14
+
+
+Gurobi 8.1.1 (win64, Matlab) logging started 03/17/20 20:18:37
+
