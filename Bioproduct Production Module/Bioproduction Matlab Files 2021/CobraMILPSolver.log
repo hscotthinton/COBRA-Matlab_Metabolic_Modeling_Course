@@ -1,0 +1,742 @@
+Freeing MIP data.
+Tried aggregator 3 times.
+MIP Presolve eliminated 4668 rows and 2012 columns.
+MIP Presolve modified 5662 coefficients.
+Aggregator did 1613 substitutions.
+Reduced MIP has 4710 rows, 3354 columns, and 20646 nonzeros.
+Reduced MIP has 1351 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.05 sec. (40.05 ticks)
+Probing fixed 3 vars, tightened 28 bounds.
+Probing time = 0.00 sec. (3.28 ticks)
+Tried aggregator 2 times.
+MIP Presolve eliminated 125 rows and 80 columns.
+MIP Presolve modified 147 coefficients.
+Aggregator did 3 substitutions.
+Reduced MIP has 4582 rows, 3271 columns, and 20343 nonzeros.
+Reduced MIP has 1302 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (18.39 ticks)
+Probing fixed 0 vars, tightened 2 bounds.
+Probing time = 0.00 sec. (2.11 ticks)
+Clique table members: 15.
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: none, using 1 thread.
+Root relaxation solution time = 0.16 sec. (189.29 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+      0     0       -0.0462   243                     -0.0462     1974         
+      0     0       -0.0462    64                    Cuts: 17     1990         
+      0     0       -0.0462    72                    Cuts: 69     2067         
+      0     0       -0.0462    52                     Cuts: 9     2117         
+      0     0       -0.0462    52                    Cuts: 18     2141         
+      0     2       -0.0462    46                     -0.0462     2141         
+Elapsed time = 2.11 sec. (1971.98 ticks, tree = 0.00 MB)
+     30    24       -0.0462    50                     -0.0462     2923         
+     61    51       -0.0462    49                     -0.0462     3769         
+    113    89       -0.0462    24                     -0.0462     4345         
+    165   130       -0.0462    11                     -0.0462     5208         
+Integer feasible solution rejected --- infeasible on original model
+    196   161       -0.0456    35                     -0.0462     6356         
+    243   202        0.0000     2                     -0.0462     7391         
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+    284   239        0.0000     1                     -0.0462     8019         
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+    318   269        0.0000     1                     -0.0462     9090         
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+    330   281        0.0000    14                     -0.0462    10297         
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+    444   385        0.0000     1                     -0.0462    16369         
+Elapsed time = 4.44 sec. (5144.70 ticks, tree = 0.86 MB)
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+    497   428       -0.0462    40                     -0.0462    20963         
+    514   433        0.0000   107                     -0.0462    23984         
+    523   433        0.0000   144                     -0.0462    27430         
+    537   418        0.0000    44                     -0.0462    30362         
+    544   391        0.0000    60                     -0.0462    34544         
+    547   379        0.0000    78                     -0.0462    39339         
+    556   381        0.0000    87                     -0.0462    43335         
+    579   328        0.0000    57                     -0.0462    45352         
+    617   325       -0.0155    54                     -0.0462    46122         
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+    672   329        0.0000     5                     -0.0462    46779         
+Elapsed time = 13.61 sec. (16485.52 ticks, tree = 4.27 MB)
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+    748   350        0.0000     0                     -0.0462    47980         
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+    826   378        0.0000     5                     -0.0462    49277         
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+*   877+  127                            0.0000       -0.0462              --- 
+    894   118       -0.0462    55        0.0000       -0.0462    50383     --- 
+    937   135       -0.0462    47        0.0000       -0.0462    50833     --- 
+    994   144       -0.0462    31        0.0000       -0.0462    51506     --- 
+   1012   148       -0.0445    46        0.0000       -0.0462    51870     --- 
+   1067   178       -0.0462    21        0.0000       -0.0462    52439     --- 
+   1127   213       -0.0460    13        0.0000       -0.0462    53025     --- 
+   1197   248       -0.0462    13        0.0000       -0.0462    54119     --- 
+   1276   281       -0.0460    18        0.0000       -0.0462    55353     --- 
+Elapsed time = 22.72 sec. (27339.55 ticks, tree = 6.31 MB)
+   1385   340       -0.0462     9        0.0000       -0.0462    56780     --- 
+   1485   368       -0.0304    16        0.0000       -0.0462    58727     --- 
+   1491   366        cutoff              0.0000       -0.0462    58828     --- 
+   1621   420       -0.0304    20        0.0000       -0.0462    61208     --- 
+   1692   460       -0.0454    10        0.0000       -0.0462    62519     --- 
+   1792   533       -0.0462     8        0.0000       -0.0462    63682     --- 
+*  1819   303      integral     0       -0.0462       -0.0462    63947    0.02%
+   1875   332       -0.0462     4       -0.0462       -0.0462    65317    0.02%
+   1988   395       -0.0462     9       -0.0462       -0.0462    66834    0.02%
+   2093   451       -0.0462     5       -0.0462       -0.0462    69270    0.02%
+   2205   500       -0.0462     1       -0.0462       -0.0462    71361    0.02%
+Elapsed time = 31.64 sec. (38548.28 ticks, tree = 6.73 MB)
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+   2326   576       -0.0462     5       -0.0462       -0.0462    73440    0.02%
+   2432   627       -0.0462     5       -0.0462       -0.0462    75580    0.02%
+   2556   683       -0.0462    11       -0.0462       -0.0462    78442    0.02%
+*  2624   578      integral     0       -0.0462       -0.0462    79397    0.02%
+   2698   593       -0.0462     5       -0.0462       -0.0462    80543    0.02%
+*  2724+  402                           -0.0462       -0.0462             0.01%
+*  2732   404      integral     0       -0.0462       -0.0462    81029    0.01%
+   2808   423    infeasible             -0.0462       -0.0462    82509    0.01%
+   2922   490       -0.0462    12       -0.0462       -0.0462    84119    0.01%
+   3018   542       -0.0462     7       -0.0462       -0.0462    86694    0.01%
+   3144   626       -0.0462     2       -0.0462       -0.0462    89008    0.01%
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+*  3229   665      integral     0       -0.0462       -0.0462    90001    0.01%
+   3275   680       -0.0462     6       -0.0462       -0.0462    90915    0.01%
+   3414   746       -0.0462     7       -0.0462       -0.0462    92766    0.01%
+Elapsed time = 39.44 sec. (48148.73 ticks, tree = 10.10 MB)
+   3561   820       -0.0462     4       -0.0462       -0.0462    94459    0.01%
+   3674   873       -0.0462     2       -0.0462       -0.0462    96583    0.01%
+   3755   898       -0.0462    12       -0.0462       -0.0462    98913    0.01%
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+   3827   944       -0.0462     1       -0.0462       -0.0462    99842    0.01%
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+   3911  1022       -0.0462     7       -0.0462       -0.0462   101141    0.01%
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+   4003  1101       -0.0462     1       -0.0462       -0.0462   102030    0.01%
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+*  4083   901      integral     0       -0.0462       -0.0462   103190    0.00%
+   4098   910       -0.0462    13       -0.0462       -0.0462   103468    0.00%
+   4218   999       -0.0462     8       -0.0462       -0.0462   104554    0.00%
+   4330  1066       -0.0462     3       -0.0462       -0.0462   106122    0.00%
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+Integer feasible solution rejected --- infeasible on original model
+*  4357  1062      integral     0       -0.0462       -0.0462   106636    0.00%
+*  4457+  528                           -0.0462       -0.0462             0.00%
+   4457   530       -0.0462     3       -0.0462       -0.0462   108218    0.00%
+Elapsed time = 47.30 sec. (57853.94 ticks, tree = 8.59 MB)
+   4606   576       -0.0462     2       -0.0462       -0.0462   110265    0.00%
+   4759   637        cutoff             -0.0462       -0.0462   112068    0.00%
+   4931   738       -0.0462     1       -0.0462       -0.0462   114137    0.00%
+   5081   813       -0.0462     1       -0.0462       -0.0462   116310    0.00%
+   5249   891       -0.0462     3       -0.0462       -0.0462   118754    0.00%
+   5418   969       -0.0462     4       -0.0462       -0.0462   121220    0.00%
+   5576  1003    infeasible             -0.0462       -0.0462   123186    0.00%
+   5755  1039        cutoff             -0.0462       -0.0462   126165    0.00%
+   5914  1068       -0.0462     4       -0.0462       -0.0462   129135    0.00%
+   6079  1106       -0.0462     3       -0.0462       -0.0462   132180    0.00%
+Elapsed time = 54.72 sec. (67462.22 ticks, tree = 12.98 MB)
+   6190  1166       -0.0462    10       -0.0462       -0.0462   133820    0.00%
+   6342  1266       -0.0462    14       -0.0462       -0.0462   135805    0.00%
+   6507  1382       -0.0462    19       -0.0462       -0.0462   137562    0.00%
+   6597  1435       -0.0462    10       -0.0462       -0.0462   138825    0.00%
+   6753  1543       -0.0462    16       -0.0462       -0.0462   140387    0.00%
+   6897  1653       -0.0462     1       -0.0462       -0.0462   141617    0.00%
+   7032  1740       -0.0462    25       -0.0462       -0.0462   143571    0.00%
+   7203  1836       -0.0462     2       -0.0462       -0.0462   145636    0.00%
+   7313  1846       -0.0462     3       -0.0462       -0.0462   147995    0.00%
+   7436  1907       -0.0462    15       -0.0462       -0.0462   149168    0.00%
+Elapsed time = 62.13 sec. (77155.13 ticks, tree = 19.22 MB)
+   7545  1976       -0.0462    14       -0.0462       -0.0462   151043    0.00%
+   7685  2031        cutoff             -0.0462       -0.0462   152690    0.00%
+   7821  2040       -0.0462     2       -0.0462       -0.0462   155484    0.00%
+   7953  2100       -0.0462     4       -0.0462       -0.0462   157348    0.00%
+   8082  2177       -0.0462     7       -0.0462       -0.0462   159321    0.00%
+   8197  2224       -0.0462     2       -0.0462       -0.0462   161409    0.00%
+   8353  2311        cutoff             -0.0462       -0.0462   163134    0.00%
+   8494  2380       -0.0462     3       -0.0462       -0.0462   165620    0.00%
+   8553  2393       -0.0462     2       -0.0462       -0.0462   166679    0.00%
+   8680  2421       -0.0462     8       -0.0462       -0.0462   169503    0.00%
+Elapsed time = 69.95 sec. (86807.33 ticks, tree = 24.76 MB)
+   8836  2454       -0.0462     2       -0.0462       -0.0462   172707    0.00%
+   9010  2463    infeasible             -0.0462       -0.0462   175033    0.00%
+   9114  2492        cutoff             -0.0462       -0.0462   178080    0.00%
+   9253  2508       -0.0462     3       -0.0462       -0.0462   179639    0.00%
+   9418  2545       -0.0462     1       -0.0462       -0.0462   182269    0.00%
+   9560  2578       -0.0462     2       -0.0462       -0.0462   185071    0.00%
+   9709  2639        cutoff             -0.0462       -0.0462   187925    0.00%
+   9832  2667       -0.0462     5       -0.0462       -0.0462   190573    0.00%
+   9962  2704       -0.0462     4       -0.0462       -0.0462   192384    0.00%
+  10397  2860       -0.0462     4       -0.0462       -0.0462   201661    0.00%
+Elapsed time = 80.42 sec. (99696.04 ticks, tree = 29.97 MB)
+  10913  2977       -0.0462    13       -0.0462       -0.0462   212028    0.00%
+  11438  3096       -0.0462     9       -0.0462       -0.0462   222786    0.00%
+  11995  3190       -0.0462     3       -0.0462       -0.0462   233736    0.00%
+  12465  3303       -0.0462     6       -0.0462       -0.0462   243717    0.00%
+  13001  3401       -0.0462     1       -0.0462       -0.0462   254430    0.00%
+  13447  3499       -0.0462     2       -0.0462       -0.0462   262317    0.00%
+  14025  3603        cutoff             -0.0462       -0.0462   273073    0.00%
+  14628  3699        cutoff             -0.0462       -0.0462   282295    0.00%
+  15134  3839       -0.0462     2       -0.0462       -0.0462   291175    0.00%
+  15593  3969       -0.0462     6       -0.0462       -0.0462   299809    0.00%
+Elapsed time = 111.22 sec. (137957.80 ticks, tree = 44.02 MB)
+  16101  4138       -0.0462     2       -0.0462       -0.0462   309442    0.00%
+  16644  4405       -0.0462    11       -0.0462       -0.0462   315448    0.00%
+  17098  4642       -0.0462     2       -0.0462       -0.0462   321552    0.00%
+  17682  4887       -0.0462     2       -0.0462       -0.0462   329450    0.00%
+  18287  5055       -0.0462     3       -0.0462       -0.0462   339387    0.00%
+  18910  5237       -0.0462     1       -0.0462       -0.0462   350241    0.00%
+  19522  5476       -0.0462     2       -0.0462       -0.0462   359552    0.00%
+
+Cover cuts applied:  1
+Implied bound cuts applied:  1
+Flow cuts applied:  1
+Mixed integer rounding cuts applied:  2
+Gomory fractional cuts applied:  2
+
+Root node processing (before b&c):
+  Real time             =    2.11 sec. (1969.95 ticks)
+Sequential b&c:
+  Real time             =  131.69 sec. (164022.47 ticks)
+                          ------------
+Total (root+branch&cut) =  133.80 sec. (165992.43 ticks)
+User aborted solstat = 113
+CPLEX Error  1255: Incompatible with superbasis.
+CPLEX Error  1255: Incompatible with superbasis.
+CPLEX Error  1262: No basis exists.
+
+Gurobi 8.1.1 (win64, Matlab) logging started 11/20/19 12:22:20
+
